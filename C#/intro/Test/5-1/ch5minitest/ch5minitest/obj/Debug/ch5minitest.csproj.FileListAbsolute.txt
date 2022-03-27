@@ -1,0 +1,7 @@
+C:\Projects\intro\Test\5-1\ch5minitest\ch5minitest\bin\Debug\ch5minitest.exe.config
+C:\Projects\intro\Test\5-1\ch5minitest\ch5minitest\bin\Debug\ch5minitest.exe
+C:\Projects\intro\Test\5-1\ch5minitest\ch5minitest\bin\Debug\ch5minitest.pdb
+C:\Projects\intro\Test\5-1\ch5minitest\ch5minitest\obj\Debug\ch5minitest.csprojAssemblyReference.cache
+C:\Projects\intro\Test\5-1\ch5minitest\ch5minitest\obj\Debug\ch5minitest.csproj.CoreCompileInputs.cache
+C:\Projects\intro\Test\5-1\ch5minitest\ch5minitest\obj\Debug\ch5minitest.exe
+C:\Projects\intro\Test\5-1\ch5minitest\ch5minitest\obj\Debug\ch5minitest.pdb

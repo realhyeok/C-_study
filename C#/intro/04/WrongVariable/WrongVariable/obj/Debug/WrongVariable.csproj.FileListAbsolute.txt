@@ -1,0 +1,2 @@
+C:\Projects\intro\04\WrongVariable\WrongVariable\obj\Debug\WrongVariable.csprojAssemblyReference.cache
+C:\Projects\intro\04\WrongVariable\WrongVariable\obj\Debug\WrongVariable.csproj.CoreCompileInputs.cache

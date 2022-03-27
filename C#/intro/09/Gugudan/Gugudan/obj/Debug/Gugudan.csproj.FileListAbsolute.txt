@@ -1,0 +1,6 @@
+C:\Projects\intro\09\Gugudan\Gugudan\bin\Debug\Gugudan.exe.config
+C:\Projects\intro\09\Gugudan\Gugudan\bin\Debug\Gugudan.exe
+C:\Projects\intro\09\Gugudan\Gugudan\bin\Debug\Gugudan.pdb
+C:\Projects\intro\09\Gugudan\Gugudan\obj\Debug\Gugudan.csproj.CoreCompileInputs.cache
+C:\Projects\intro\09\Gugudan\Gugudan\obj\Debug\Gugudan.exe
+C:\Projects\intro\09\Gugudan\Gugudan\obj\Debug\Gugudan.pdb

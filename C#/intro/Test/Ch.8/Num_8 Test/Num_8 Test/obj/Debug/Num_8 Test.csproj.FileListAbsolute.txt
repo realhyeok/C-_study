@@ -1,0 +1,7 @@
+C:\Projects\intro\Test\Ch.8\Num_8 Test\Num_8 Test\bin\Debug\Num_8 Test.exe.config
+C:\Projects\intro\Test\Ch.8\Num_8 Test\Num_8 Test\bin\Debug\Num_8 Test.exe
+C:\Projects\intro\Test\Ch.8\Num_8 Test\Num_8 Test\bin\Debug\Num_8 Test.pdb
+C:\Projects\intro\Test\Ch.8\Num_8 Test\Num_8 Test\obj\Debug\Num_8 Test.csproj.CoreCompileInputs.cache
+C:\Projects\intro\Test\Ch.8\Num_8 Test\Num_8 Test\obj\Debug\Num_8 Test.exe
+C:\Projects\intro\Test\Ch.8\Num_8 Test\Num_8 Test\obj\Debug\Num_8 Test.pdb
+C:\Projects\intro\Test\Ch.8\Num_8 Test\Num_8 Test\obj\Debug\Num_8 Test.csprojAssemblyReference.cache

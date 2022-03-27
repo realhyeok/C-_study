@@ -1,0 +1,7 @@
+C:\Projects\intro\Test\MEMO\MEMO\bin\Debug\MEMO.exe.config
+C:\Projects\intro\Test\MEMO\MEMO\bin\Debug\MEMO.exe
+C:\Projects\intro\Test\MEMO\MEMO\bin\Debug\MEMO.pdb
+C:\Projects\intro\Test\MEMO\MEMO\obj\Debug\MEMO.csprojAssemblyReference.cache
+C:\Projects\intro\Test\MEMO\MEMO\obj\Debug\MEMO.csproj.CoreCompileInputs.cache
+C:\Projects\intro\Test\MEMO\MEMO\obj\Debug\MEMO.exe
+C:\Projects\intro\Test\MEMO\MEMO\obj\Debug\MEMO.pdb

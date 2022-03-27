@@ -1,0 +1,6 @@
+C:\Projects\intro\06\ComparisonOperators\ComparisonOperators\bin\Debug\ComparisonOperators.exe.config
+C:\Projects\intro\06\ComparisonOperators\ComparisonOperators\bin\Debug\ComparisonOperators.exe
+C:\Projects\intro\06\ComparisonOperators\ComparisonOperators\bin\Debug\ComparisonOperators.pdb
+C:\Projects\intro\06\ComparisonOperators\ComparisonOperators\obj\Debug\ComparisonOperators.csproj.CoreCompileInputs.cache
+C:\Projects\intro\06\ComparisonOperators\ComparisonOperators\obj\Debug\ComparisonOperators.exe
+C:\Projects\intro\06\ComparisonOperators\ComparisonOperators\obj\Debug\ComparisonOperators.pdb

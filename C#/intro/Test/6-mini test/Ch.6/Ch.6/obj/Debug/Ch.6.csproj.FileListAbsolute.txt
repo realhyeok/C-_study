@@ -1,0 +1,7 @@
+C:\Projects\intro\Test\6-mini test\Ch.6\Ch.6\bin\Debug\Ch.6.exe.config
+C:\Projects\intro\Test\6-mini test\Ch.6\Ch.6\bin\Debug\Ch.6.exe
+C:\Projects\intro\Test\6-mini test\Ch.6\Ch.6\bin\Debug\Ch.6.pdb
+C:\Projects\intro\Test\6-mini test\Ch.6\Ch.6\obj\Debug\Ch.6.csprojAssemblyReference.cache
+C:\Projects\intro\Test\6-mini test\Ch.6\Ch.6\obj\Debug\Ch.6.csproj.CoreCompileInputs.cache
+C:\Projects\intro\Test\6-mini test\Ch.6\Ch.6\obj\Debug\Ch.6.exe
+C:\Projects\intro\Test\6-mini test\Ch.6\Ch.6\obj\Debug\Ch.6.pdb

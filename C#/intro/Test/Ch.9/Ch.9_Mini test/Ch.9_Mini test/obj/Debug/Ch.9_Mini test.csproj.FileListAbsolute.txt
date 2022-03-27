@@ -1,0 +1,7 @@
+C:\Projects\intro\Test\Ch.9\Ch.9_Mini test\Ch.9_Mini test\bin\Debug\Ch.9_Mini test.exe.config
+C:\Projects\intro\Test\Ch.9\Ch.9_Mini test\Ch.9_Mini test\bin\Debug\Ch.9_Mini test.exe
+C:\Projects\intro\Test\Ch.9\Ch.9_Mini test\Ch.9_Mini test\bin\Debug\Ch.9_Mini test.pdb
+C:\Projects\intro\Test\Ch.9\Ch.9_Mini test\Ch.9_Mini test\obj\Debug\Ch.9_Mini test.csprojAssemblyReference.cache
+C:\Projects\intro\Test\Ch.9\Ch.9_Mini test\Ch.9_Mini test\obj\Debug\Ch.9_Mini test.csproj.CoreCompileInputs.cache
+C:\Projects\intro\Test\Ch.9\Ch.9_Mini test\Ch.9_Mini test\obj\Debug\Ch.9_Mini test.exe
+C:\Projects\intro\Test\Ch.9\Ch.9_Mini test\Ch.9_Mini test\obj\Debug\Ch.9_Mini test.pdb

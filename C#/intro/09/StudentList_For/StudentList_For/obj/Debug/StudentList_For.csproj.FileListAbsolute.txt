@@ -1,0 +1,6 @@
+C:\Projects\intro\09\StudentList_For\StudentList_For\bin\Debug\StudentList_For.exe.config
+C:\Projects\intro\09\StudentList_For\StudentList_For\bin\Debug\StudentList_For.exe
+C:\Projects\intro\09\StudentList_For\StudentList_For\bin\Debug\StudentList_For.pdb
+C:\Projects\intro\09\StudentList_For\StudentList_For\obj\Debug\StudentList_For.csproj.CoreCompileInputs.cache
+C:\Projects\intro\09\StudentList_For\StudentList_For\obj\Debug\StudentList_For.exe
+C:\Projects\intro\09\StudentList_For\StudentList_For\obj\Debug\StudentList_For.pdb

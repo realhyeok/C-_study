@@ -1,0 +1,7 @@
+C:\Projects\intro\Test\p66 mini test\minitest\minitest\obj\Debug\minitest.csprojAssemblyReference.cache
+C:\Projects\intro\Test\p66 mini test\minitest\minitest\obj\Debug\minitest.csproj.CoreCompileInputs.cache
+C:\Projects\intro\Test\p66 mini test\minitest\minitest\bin\Debug\minitest.exe.config
+C:\Projects\intro\Test\p66 mini test\minitest\minitest\bin\Debug\minitest.exe
+C:\Projects\intro\Test\p66 mini test\minitest\minitest\bin\Debug\minitest.pdb
+C:\Projects\intro\Test\p66 mini test\minitest\minitest\obj\Debug\minitest.exe
+C:\Projects\intro\Test\p66 mini test\minitest\minitest\obj\Debug\minitest.pdb

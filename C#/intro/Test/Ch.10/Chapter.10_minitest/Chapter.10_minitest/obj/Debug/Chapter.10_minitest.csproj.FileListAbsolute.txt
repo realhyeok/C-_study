@@ -1,0 +1,7 @@
+C:\Projects\intro\Test\Ch.10\Chapter.10_minitest\Chapter.10_minitest\bin\Debug\Chapter.10_minitest.exe.config
+C:\Projects\intro\Test\Ch.10\Chapter.10_minitest\Chapter.10_minitest\bin\Debug\Chapter.10_minitest.exe
+C:\Projects\intro\Test\Ch.10\Chapter.10_minitest\Chapter.10_minitest\bin\Debug\Chapter.10_minitest.pdb
+C:\Projects\intro\Test\Ch.10\Chapter.10_minitest\Chapter.10_minitest\obj\Debug\Chapter.10_minitest.csproj.CoreCompileInputs.cache
+C:\Projects\intro\Test\Ch.10\Chapter.10_minitest\Chapter.10_minitest\obj\Debug\Chapter.10_minitest.exe
+C:\Projects\intro\Test\Ch.10\Chapter.10_minitest\Chapter.10_minitest\obj\Debug\Chapter.10_minitest.pdb
+C:\Projects\intro\Test\Ch.10\Chapter.10_minitest\Chapter.10_minitest\obj\Debug\Chapter.10_minitest.csprojAssemblyReference.cache

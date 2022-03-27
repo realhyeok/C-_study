@@ -1,0 +1,7 @@
+C:\Projects\intro\05\Echo\Echo\bin\Debug\Echo.exe.config
+C:\Projects\intro\05\Echo\Echo\bin\Debug\Echo.exe
+C:\Projects\intro\05\Echo\Echo\bin\Debug\Echo.pdb
+C:\Projects\intro\05\Echo\Echo\obj\Debug\Echo.csprojAssemblyReference.cache
+C:\Projects\intro\05\Echo\Echo\obj\Debug\Echo.csproj.CoreCompileInputs.cache
+C:\Projects\intro\05\Echo\Echo\obj\Debug\Echo.exe
+C:\Projects\intro\05\Echo\Echo\obj\Debug\Echo.pdb

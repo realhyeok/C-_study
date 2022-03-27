@@ -1,0 +1,7 @@
+C:\Projects\intro\10\DoorLock_6Num_Random\DoorLock_6Num_Random\bin\Debug\DoorLock_6Num_Random.exe.config
+C:\Projects\intro\10\DoorLock_6Num_Random\DoorLock_6Num_Random\bin\Debug\DoorLock_6Num_Random.exe
+C:\Projects\intro\10\DoorLock_6Num_Random\DoorLock_6Num_Random\bin\Debug\DoorLock_6Num_Random.pdb
+C:\Projects\intro\10\DoorLock_6Num_Random\DoorLock_6Num_Random\obj\Debug\DoorLock_6Num_Random.csprojAssemblyReference.cache
+C:\Projects\intro\10\DoorLock_6Num_Random\DoorLock_6Num_Random\obj\Debug\DoorLock_6Num_Random.csproj.CoreCompileInputs.cache
+C:\Projects\intro\10\DoorLock_6Num_Random\DoorLock_6Num_Random\obj\Debug\DoorLock_6Num_Random.exe
+C:\Projects\intro\10\DoorLock_6Num_Random\DoorLock_6Num_Random\obj\Debug\DoorLock_6Num_Random.pdb

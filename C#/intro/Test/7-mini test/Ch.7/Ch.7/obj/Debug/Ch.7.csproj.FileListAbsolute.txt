@@ -1,0 +1,7 @@
+C:\Projects\intro\Test\7-mini test\Ch.7\Ch.7\obj\Debug\Ch.7.csproj.CoreCompileInputs.cache
+C:\Projects\intro\Test\7-mini test\Ch.7\Ch.7\bin\Debug\Ch.7.exe.config
+C:\Projects\intro\Test\7-mini test\Ch.7\Ch.7\bin\Debug\Ch.7.exe
+C:\Projects\intro\Test\7-mini test\Ch.7\Ch.7\bin\Debug\Ch.7.pdb
+C:\Projects\intro\Test\7-mini test\Ch.7\Ch.7\obj\Debug\Ch.7.exe
+C:\Projects\intro\Test\7-mini test\Ch.7\Ch.7\obj\Debug\Ch.7.pdb
+C:\Projects\intro\Test\7-mini test\Ch.7\Ch.7\obj\Debug\Ch.7.csprojAssemblyReference.cache

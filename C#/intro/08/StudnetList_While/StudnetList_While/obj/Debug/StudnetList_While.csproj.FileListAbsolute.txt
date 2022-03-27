@@ -1,0 +1,7 @@
+C:\Projects\intro\08\StudnetList_While\StudnetList_While\bin\Debug\StudnetList_While.exe.config
+C:\Projects\intro\08\StudnetList_While\StudnetList_While\bin\Debug\StudnetList_While.exe
+C:\Projects\intro\08\StudnetList_While\StudnetList_While\bin\Debug\StudnetList_While.pdb
+C:\Projects\intro\08\StudnetList_While\StudnetList_While\obj\Debug\StudnetList_While.csproj.CoreCompileInputs.cache
+C:\Projects\intro\08\StudnetList_While\StudnetList_While\obj\Debug\StudnetList_While.exe
+C:\Projects\intro\08\StudnetList_While\StudnetList_While\obj\Debug\StudnetList_While.pdb
+C:\Projects\intro\08\StudnetList_While\StudnetList_While\obj\Debug\StudnetList_While.csprojAssemblyReference.cache
